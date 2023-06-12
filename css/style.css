@@ -2,6 +2,10 @@ body{
     margin: 0;
 }
 
+p{
+    text-align: justify;
+}
+
 .container{
     width: 90%;
     margin: auto;
@@ -24,6 +28,10 @@ body{
     color: gray;
 }
 
+.textHighlight{
+    background-color: yellow;
+}
+
 /* info su header */
 .top{
     background-color: #4ea0ff;
@@ -35,4 +43,9 @@ body{
 
 #logo{
     width: 200px;
+}
+
+#noPadd{
+    /* si mangia un poco di spazio fuori dal container..perchè? */
+    padding-inline-start: 0%;
 }
