@@ -7,6 +7,23 @@ body{
     margin: auto;
 }
 
+/* formattazioni di testo */
+.smallText{
+    line-height: 1px;
+    font-size: small;
+}
+.smallerText{
+    line-height: 1px;
+    font-size: x-small;
+}
+
+.textBlue{
+    color: lightblue;
+}
+.textGray{
+    color: gray;
+}
+
 /* info su header */
 .top{
     background-color: #4ea0ff;
@@ -16,20 +33,6 @@ body{
     padding-bottom: 10px;
 }
 
-.smallText{
-    line-height: 1px;
-    font-size: small;
-    color: gray;
-}
-.smallerText{
-    line-height: 1px;
-    font-size: x-small;
-    color: gray;
-}
-
 #logo{
     width: 200px;
-}
-#textBlue{
-    color: lightblue;
 }
