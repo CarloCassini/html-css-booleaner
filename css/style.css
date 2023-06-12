@@ -41,6 +41,17 @@ p{
     padding-bottom: 10px;
 }
 
+/* caratteristiche tabella */
+.tableHead{
+    background-color: #4ea0ff;
+    color: white;
+}
+
+.tableHead > th {
+    color: rgb(255, 17, 17);
+}
+
+
 #logo{
     width: 200px;
 }
