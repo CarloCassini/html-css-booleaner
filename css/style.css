@@ -4,7 +4,17 @@ body{
 
 p{
     text-align: justify;
+    margin: 40px auto;
 }
+
+.noInterlinea{
+    margin: 10px auto;
+}
+
+ul{
+    margin: 40px auto;
+}
+
 
 .container{
     width: 90%;
