@@ -79,3 +79,27 @@ table{
     /* si mangia un poco di spazio fuori dal container..perchè? */
     padding-inline-start: 0%;
 }
+
+.immVio{
+    margin: 30px 0px;
+    font-weight: bold;
+    color: white;
+    background-color: fuchsia;
+    background-image: url(../img/monitor.jpg); 
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 200px;
+}
+
+.immRed{
+    margin: 30px 0px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(255, 0, 0);
+    background-image: url(../img/graph.jpg); 
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 200px;
+}
