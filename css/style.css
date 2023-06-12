@@ -42,15 +42,24 @@ p{
 }
 
 /* caratteristiche tabella */
+table{
+    table-layout: fixed;
+    width: 100%;
+    border: none;
+}
+
 .tableHead{
     background-color: #4ea0ff;
     color: white;
 }
 
-.tableHead > th {
-    color: rgb(255, 17, 17);
+.tableBG{
+    background-color: aquamarine;
 }
 
+.thsize{
+    width: 60%;
+}
 
 #logo{
     width: 200px;
