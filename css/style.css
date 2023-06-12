@@ -14,9 +14,22 @@ body{
     background-size: 300px;
     padding-top: 50px;
     padding-bottom: 10px;
+}
 
+.smallText{
+    line-height: 1px;
+    font-size: small;
+    color: gray;
+}
+.smallerText{
+    line-height: 1px;
+    font-size: x-small;
+    color: gray;
 }
 
 #logo{
     width: 200px;
+}
+#textBlue{
+    color: lightblue;
 }
